@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3a8c29db-7a38-ba60-1387-ee668aca61a9
 resourcetype: Document
 title: The One Best Source
 uid: 706aeac4-42d0-9e94-4b8f-a7852ce03018

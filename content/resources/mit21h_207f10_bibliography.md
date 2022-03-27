@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3a8c29db-7a38-ba60-1387-ee668aca61a9
 resourcetype: Document
 title: Detailed Bibliography
 uid: 0863449e-5495-c31f-b045-24c7ed8efa2f

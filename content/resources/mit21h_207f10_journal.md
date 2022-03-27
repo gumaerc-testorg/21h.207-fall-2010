@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3a8c29db-7a38-ba60-1387-ee668aca61a9
 resourcetype: Document
 title: 'Creating a Primary Source Journal '
 uid: 1eb8af5b-67f8-18cc-2e9a-ece39bf2b09d
