@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section provides the list of books for the course, along with the
+  schedule of assigned readings, online resources, and videos for each week. '
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials

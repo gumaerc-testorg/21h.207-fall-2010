@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the two major assignments in the
+  class, a primary source journal and a research paper.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -7,9 +9,9 @@ title: Assignments
 uid: 3a8c29db-7a38-ba60-1387-ee668aca61a9
 ---
 
-Guide to Writing an "A" Paper ([PDF]({{< baseurl >}}/resources/mit21h_207f10_10tips))
+Guide to Writing an "A" Paper ({{% resource_link a67dbff5-bf3c-99aa-071a-7b316dc58fa9 "PDF" %}})
 
-Primary Source Journal ([PDF]({{< baseurl >}}/resources/mit21h_207f10_journal))
+Primary Source Journal ({{% resource_link 1eb8af5b-67f8-18cc-2e9a-ece39bf2b09d "PDF" %}})
 -------------------------------------------------------------------------------
 
 Collect primary sources every week, throughout the semester. Write a one-page analysis of each primary source. You should bring your primary source journal to class and be prepared to share it in discussion. The journal is due on the last day of class, Week #12.
@@ -31,13 +33,13 @@ Due Week #3
 
 All research papers build on three basic elements: a good question, a very focused topic, and a body of primary source material. The first step, then, will be to come up with your question, topic, and sources.
 
-### Detailed Bibliography ([PDF]({{< baseurl >}}/resources/mit21h_207f10_bibliography))
+### Detailed Bibliography ({{% resource_link 0863449e-5495-c31f-b045-24c7ed8efa2f "PDF" %}})
 
 Due Week #5
 
 Over the next few weeks, you then need to do much of your background reading and identify most of your research. This bibliography is more than just a list of books and articles you are building on. The purposes of this background reading and the first stage of your research are to refine your question and zero in on your topic. You need to figure out what historical problem you are trying to solve and how your sources will allow you to do that.
 
-### One Best Source ([PDF]({{< baseurl >}}/resources/mit21h_207f10_best_source))
+### One Best Source ({{% resource_link 706aeac4-42d0-9e94-4b8f-a7852ce03018 "PDF" %}})
 
 Due Week #7
 
