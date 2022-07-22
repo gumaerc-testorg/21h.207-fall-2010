@@ -5,6 +5,7 @@ file: /courses/21h-207-the-energy-crisis-past-and-present-fall-2010/0863449e5495
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Detailed Bibliography
 uid: 0863449e-5495-c31f-b045-24c7ed8efa2f
 ---
 Assignment to create a detailed bibliography for a research paper.
-

@@ -6,6 +6,7 @@ file: /courses/21h-207-the-energy-crisis-past-and-present-fall-2010/1eb8af5b67f8
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Creating a Primary Source Journal '
 uid: 1eb8af5b-67f8-18cc-2e9a-ece39bf2b09d
 ---
 Guidelines and instruction on creating a primary source journal for the research project of the course.
-

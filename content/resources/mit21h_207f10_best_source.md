@@ -6,6 +6,7 @@ file: /courses/21h-207-the-energy-crisis-past-and-present-fall-2010/706aeac442d0
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: The One Best Source
 uid: 706aeac4-42d0-9e94-4b8f-a7852ce03018
 ---
 Assignment to pick out a single best source for the research project of the course and explain what its significance is.
-
