@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This page provides a list of websites providing background information
+  and source material for students' research papers.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 089a8ec1-dd68-1ee5-0d11-8d40a4b6a744
 ---
