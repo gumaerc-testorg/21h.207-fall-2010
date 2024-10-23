@@ -2,7 +2,7 @@
 content_type: resource
 description: Guidelines and instruction on creating a primary source journal for the
   research project of the course.
-file: /courses/21h-207-the-energy-crisis-past-and-present-fall-2010/1eb8af5b67f818cc2e9aece39bf2b09d_MIT21H_207F10_journal.pdf
+file: /ol-ocw-studio-app/courses/21h-207-the-energy-crisis-past-and-present-fall-2010/1eb8af5b67f818cc2e9aece39bf2b09d_MIT21H_207F10_journal.pdf
 file_size: 25339
 file_type: application/pdf
 learning_resource_types:
